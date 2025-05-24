@@ -1,4 +1,4 @@
-🌿 Dr-Leaf: Plant Disease Detection System
+🌿# Dr-Leaf: Plant Disease Detection System
 Dr-Leaf is an AI-powered web application designed to detect plant diseases from leaf images. By leveraging deep learning techniques, it aims to assist farmers and agricultural professionals in early disease identification, promoting timely intervention and healthier crops.
 
 🧠 Project Overview
